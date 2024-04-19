@@ -17,4 +17,8 @@ function signUpuser(name: string, email: string, password: number, isloggedIn: b
 
 signUpuser("subho", "ncdey1966gmail.com", 9932938202, true)
 
+let loginUser = (name: string, email: string, isPaid: boolean) => {
+
+}
+
 export{}
