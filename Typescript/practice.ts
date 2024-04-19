@@ -10,4 +10,11 @@ addTwo(4)
 
 getUpper("practicing typescript")
 
+
+function signUpuser(name: string, email: string, password: number, isloggedIn: boolean){
+
+}
+
+signUpuser("subho", "ncdey1966gmail.com", 9932938202, true)
+
 export{}
